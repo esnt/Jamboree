@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+apikey.txt
+.mapbox_token
+*.geojson
+*.xlsx
+*.csv
+initial_code.ipynb
